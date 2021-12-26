@@ -9,3 +9,7 @@
 
 -  def.mypage.com 
 - then it will land at www.mypage.com/def, 
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-web-server-and-reverse-proxy-for-apache-on-one-ubuntu-18-04-server
